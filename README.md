@@ -18,7 +18,7 @@ The netCDF file contains the DDMs processed on board during that day, as
 well as relevant information for processing and geolocation of the 
 reflections. The important variables values during the time of the Raw IF 
 record (reported in its metadata) is read from the netCDF file and used 
-during the calculation of the DDMs. ALso, it is required a rinex Galileo
+during the calculation of the DDMs. Also, it is requires a rinex Galileo
 navigation file, to get the satellite orbits and estimate specular 
 reflection points position, delay and Doppler shift.
 
